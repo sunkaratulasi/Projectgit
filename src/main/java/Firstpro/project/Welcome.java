@@ -8,7 +8,7 @@ public class Welcome {
 	
 	@GetMapping("/get")
 	public String getData() {
-		return "welcome to MiracleFeet";
+		return "welcome to my presentation";
 	}
 
 }
